@@ -8,7 +8,7 @@
 - 💬 Ping me about Software Development, Lets grow together
 - ⚡ Fun fact: I'm currently learnign Next.js
 
-## 🌐 Socials:
+## Find me around the web 🌎:
 
 <img src="https://komarev.com/ghpvc/?username=kanugoyal&label=Profile%20views&color=0e75b6&style=flat" alt="kanugoyal" /> 
 
