@@ -1,7 +1,7 @@
 <h1>Hey 👋, I'm Kanika Goyal</h1>
 <h3>A Full-Stack Developer from India</h3>
 
-- 🔭 I’m currently working as Junior Software Engineer at <strong><a target="_blank"  href="https://ischoolconnect.com/en/">@IschoolConnect</a></strong>.
+- 🔭 I’m currently working as Software Engineer at <strong><a target="_blank"  href="https://ischoolconnect.com/en/">@IschoolConnect</a></strong>.
 - 🌱 I’m Interested to work on Web 3.0
 - 👯 I’m making the world better by PRs 
 - 📫 How to reach me: goyalkanu25@gmail.com
