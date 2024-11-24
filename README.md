@@ -5,8 +5,7 @@
 - 🌱 I’m Interested to work on Web 3.0
 - 👯 I’m making the world better by PRs 
 - 📫 How to reach me: goyalkanu25@gmail.com
-- 💬 Ping me about Software Development, Lets grow together
-- ⚡ Fun fact: I'm currently learnign Next.js
+- 💬 Ping me about Software Development, Let's grow together
 
 ## Find me around the web 🌎:
 
